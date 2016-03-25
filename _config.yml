@@ -1,0 +1,28 @@
+name: ThePhotoHour
+favicon: null
+layout_spectrum: 0.8375508566386998
+typography_spectrum: 0.9316913727670908
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.5362262427806854
+  lightness: 0.3816238970030099
+  saturation: 0.7978557110764086
+  rhythmicContrast: 0.3686558688059449
+purpose: []
