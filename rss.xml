@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[ThePhotoHour]]></title>
         <description><![CDATA[ThePhotoHour]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/thephotohour/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 09:13:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 25 Mar 2016 10:18:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thephotohour/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://images.nationalgeographic.com/wpf/media-live/photos/000/944/cache/yamuna-river-scene_94439_990x742.jpg">]]></description>
+            <link>http://photography.nationalgeographic.com/photography/photo-of-the-day/yamuna-river-scene/</link>
+            <guid isPermaLink="false">90cf6c63-9dab-45bb-88e1-f707ee0cb24e</guid>
+            <pubDate>Fri, 25 Mar 2016 10:18:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/49398c05-a9f6-45b7-9e65-2fbeea17768f.jpg">]]></description>
-            <link>undefined7706300c-c6de-4f3b-928a-3fbf8cbd423e/index.html</link>
+            <link>https://thegrid.ai/thephotohour/7706300c-c6de-4f3b-928a-3fbf8cbd423e/index.html</link>
             <guid isPermaLink="false">7706300c-c6de-4f3b-928a-3fbf8cbd423e</guid>
             <pubDate>Fri, 25 Mar 2016 09:12:36 GMT</pubDate>
         </item>
